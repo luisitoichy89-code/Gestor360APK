@@ -1,0 +1,10 @@
+.env
+.buildozer/
+.buildozer_global/
+bin/
+*.apk
+__pycache__/
+*.pyc
+local.db
+local_backup.db
+security.log
